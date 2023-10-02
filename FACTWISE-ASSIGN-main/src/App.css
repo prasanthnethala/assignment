@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bdr-13 {
+  border-radius: 13px;
+}
+
+.icon {
+  cursor: pointer;
+  background-color: #fff;
+  margin: 0 10px;
+}
+
+.icon:hover {
+  background-color: #f9f6f6;
+  font-size: 26px;
+  border-radius: 50%;
+}
+
+.accordion {
+  cursor: pointer;
+}
+
+.floatRight {
+  float: right;
+}
+
+.opacity30 {
+  opacity: 0.3;
+}
